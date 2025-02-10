@@ -13,7 +13,7 @@ Find more information about me at my [personal web site](https://felipe.nubecita
 - I contributed to several libs for testing White Rabbit devices: [py7slib](https://github.com/felipet/py7slib), [measuring_instr](https://github.com/felipet/measuring_instr), [calibration](https://github.com/felipet/wrcalibration).
 - I stared a project to develop a collaborative database for cocktail recipes: [La Coctelera](https://felipe.nubecita.eu/projects/lacoctelera/).
 - I develop a Telegram Bot to help investors keeping track of short positions against companies listed in the IBEX 35: [ShortBot](https://felipe.nubecita.eu/projects/shortbot/).
-- A few crates at [crates.io](crates.io): [mailjet_client](https://crates.io/crates/mailjet_client), [finance_api](https://crates.io/crates/finance_api) and [finance_ibex](https://crates.io/crates/finance_ibex).
+- A few crates at [crates.io](crates.io): [mailjet_client](https://crates.io/crates/mailjet_client), [finance_api](https://crates.io/crates/finance_api), [finance_ibex](https://crates.io/crates/finance_ibex) and [data_harvest](https://crates.io/crates/data_harvest).
 
 ### 💻 I am currently working on ...
 
